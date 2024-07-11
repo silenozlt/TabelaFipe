@@ -90,5 +90,7 @@ public class Principal {
         System.out.println("\n Todos os veiculos fitrados com avaliações por ano: ");
         veiculos.forEach(System.out::println);
 
+
+
     }
 }
